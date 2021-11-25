@@ -4,6 +4,3 @@
 ## Spark AR Effect Link - [Demo](https://www.instagram.com/ar/279094840824966/?ch=Yzc4ZTMwNWJjOWM1Y2EzYzhhMTY4ZjJjYjliMWMzYTA%3D)
 
 ### Spark AR Effect ID - 279094840824966
-
-### Screenshot
-
