@@ -12,7 +12,7 @@ Download SPARK AR from https://sparkar.facebook.com/ar-studio/download/
 Install it and set it up.
 
 ### Step 3
-Load [samyaksand_Christmas Filter AR Project](https://github.com/samyaksand/RealityHACK-21-and-Create-A-thon/tree/main/samyaksand_Christmas%20Filter%20AR%20Project) from the menu directly.
+Load [samyaksand_Christmas Filter AR Project](https://github.com/samyaksand/RealityHACK-21-and-Create-A-thon/blob/main/samyaksand_Christmas%20Filter%20AR%20Project/Christmas%20Filter%20AR%20Project.arproj) from the menu directly.
 
 ## Spark AR Effect Link - [Demo](https://www.instagram.com/ar/279094840824966/?ch=Yzc4ZTMwNWJjOWM1Y2EzYzhhMTY4ZjJjYjliMWMzYTA%3D)
 ## Spark AR Effect ID - 279094840824966
