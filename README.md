@@ -3,16 +3,10 @@
 
 ## About
 
-Spark AR Studio is a program provided by Facebook to develop Augmented Reality(AR) filters for social networks(Instagram and Facebook). The software provides a gallery of templates for the user to create their own filter from a base, and also allows you to start the effect from scratch.
+Spark AR Studio is a program provided by Facebook to develop Augmented Reality (AR) filters for social networks (Instagram and Facebook).
 
-### Step 1
-Download SPARK AR from https://sparkar.facebook.com/ar-studio/download/
+## Spark AR Effect Links 
+- [Instagram](https://www.instagram.com/ar/279094840824966/) or Search "Samyak's Filter" in Browse Effects option on Instagram, and try it out! 
+- [Facebook](https://www.facebook.com/fbcameraeffects/tryit/279094840824966/)
 
-### Step 2
-Install it and set it up.
-
-### Step 3
-Load [samyaksand_Christmas Filter AR Project](https://github.com/samyaksand/RealityHACK-21-and-Create-A-thon/blob/main/samyaksand_Christmas%20Filter%20AR%20Project/Christmas%20Filter%20AR%20Project.arproj) from the menu directly.
-
-## Spark AR Effect Link - [Demo](https://www.instagram.com/ar/279094840824966/?ch=Yzc4ZTMwNWJjOWM1Y2EzYzhhMTY4ZjJjYjliMWMzYTA%3D)
-## Spark AR Effect ID - 279094840824966
+### Spark AR Effect ID - 279094840824966
